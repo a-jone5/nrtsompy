@@ -1,0 +1,30 @@
+[project]
+name = "nrtsompy"
+version = "0.0.1"
+authors = [
+  { name="ash jones", email="author@example.com" },
+]
+
+maintainers = [
+  {name = "Ash Jones", email = "jone5.gith@gmail.com"}
+]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "polars",
+    "requests"
+]
+
+description = "A package to interact with the National Storm Overflow Hub"
+
+readme = "README.md"
+
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/a-jone5/nrtsompy"
