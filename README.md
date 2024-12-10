@@ -1,13 +1,13 @@
 
-## nRtsompy
+## nrtsompy
 
-The `{nRtsompy}` (near real time storm overflow monitoring python) package is designed to 
+The `{nrtsompy}` (near real time storm overflow monitoring python) package is designed to 
 help interact with the data provided via the  [National Storm Overflow Hub](https://www.streamwaterdata.co.uk/pages/storm-overflows-data)
 (NSOH herein).  This package is pretty much a copy of the R version which you can find [here](https://github.com/a-jone5/nRtsom)
 
 ## Installation
 
-To install the latest release of `{nRtsompy}` use the following code:
+To install the latest release of `{nrtsompy}` use the following code:
 
 ```
 pip install git+https://github.com/a-jone5/nrtsompy.git
@@ -15,7 +15,7 @@ pip install git+https://github.com/a-jone5/nrtsompy.git
 
 ## Functions
 
-There are currently three functions in the `{nRtsompy}` package:
+There are currently three functions in the `{nrtsompy}` package:
 
 - the `urls` function that simply makes urls available
 
