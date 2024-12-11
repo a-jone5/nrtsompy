@@ -2,7 +2,7 @@
 name = "nrtsompy"
 version = "0.0.1"
 authors = [
-  { name="ash jones", email="author@example.com" },
+  { name="ash jones", email= "jone5.gith@gmail.com"},
 ]
 
 maintainers = [
